@@ -1,0 +1,189 @@
+
+
+/* navbar style related */
+
+.nav-container-main{
+    display: flex;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+
+.nav-container{ 
+    display:flex;
+}
+
+.nav-container img {
+margin-bottom: 50px ;
+width: 50px;
+height: 200px;
+} 
+
+.nav-container p{
+    color: #131318;
+    font-size: 66px;
+    font-weight: 700;
+
+}
+.nav-container-text{
+    color: #FF5400;
+    font-size: 66px;
+    font-weight: 700;
+
+}
+.items-container{
+
+    display: flex;
+    text-align: center;
+    gap: 115px;
+    padding: 90px;
+    margin-left: 550px;
+    font-size:40px
+
+}
+.home-cooler{
+    color: #FF5400;
+
+}
+
+.items-container a{
+    text-decoration: none;
+
+}
+
+
+/* primary cooler related */
+
+     .primary-cooler{
+      background-color: #FF5400;
+     text-align: center;
+     padding: 20px;
+     border-radius: 8px;
+     border: none;
+     font-size: 20px;
+     color: #FFF;
+}
+
+
+/* river brige related */ 
+
+
+.river-and-button{
+    text-align: center;
+    background-image: url(Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:  50vh;
+    width: 2100px;
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 300px;
+
+}
+
+.river-brige{
+    color: #FFF;
+
+font-family: Mulish;
+font-size: 54px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.button-text{
+display: inline-flex;
+padding: 20px;
+align-items: flex-start;
+gap: 28px;
+border-radius: 20px;
+background: rgba(255, 255, 255, 0.30);
+font-weight: 400;
+
+}
+
+.booking{
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.river-brige{
+    text-align: cente;
+
+}
+
+    
+
+
+
+
+/* Hill and img related */
+.hiil-and-title{
+      margin-top: 150px ;
+      display: flex;
+      gap: 1000px;
+      margin-left: 400px;
+      margin-right: 350px;
+
+}
+
+.hill-img{
+    border-radius: 16px;
+    width: 1700px;
+    
+   
+
+}
+
+.hill-title{
+
+    font-size: 26px;
+}
+
+
+
+
+
+
+/* Destination related */
+.deste{
+    font-size: 110px;
+
+}
+
+.your-destination{
+    text-align: center;
+    padding-top: 50px;
+    font-size:40px ;
+}
+.row{
+    display: flex;
+    width:400px;
+    margin-right: 650px;
+    margin-left: 400px;
+    height: 430px;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.row-1{
+    width: 200px;
+    height: 513px;
+     display: flex;
+     margin-left: 400px;
+     gap: 20px;
+}
+.row-2{
+    width: 200px;
+    height: 530px;
+     display: flex;
+     margin-left: 400px;
+     gap: 20px;
+     margin-top: 20px;
+
+}
+
+
+
+
